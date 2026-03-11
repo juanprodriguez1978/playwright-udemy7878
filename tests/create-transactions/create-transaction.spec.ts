@@ -22,7 +22,7 @@ test('create transactions', async({page}) => {
 
     }
 
-    await page.pause()
+    //await page.pause()
     
 })
 
